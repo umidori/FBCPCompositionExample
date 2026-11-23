@@ -1,0 +1,2 @@
+# FBCPCompositionExample
+脆弱な基底クラス問題をコンポジションを使って解決した例
